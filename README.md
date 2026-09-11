@@ -1,86 +1,101 @@
 <div align="center">
 
-  <!-- BANNER PRINCIPAL -->
+  <!-- BANNER HERO PRINCIPAL -->
   <img src="./assets/banner-main.png" alt="Luis Carranza | NovaTec Banner" width="100%" />
 
   <br><br>
 
-  <!-- QUICK CHIPS -->
-  <a href="#-sobre-mí">
-    <img src="https://img.shields.io/badge/FULL_STACK-DEVELOPER-0B132B?style=for-the-badge&logo=codeforces&logoColor=00f2fe" alt="Full Stack Developer" />
+  <!-- EFECTO TYPEWRITER DINÁMICO (ANIMACIÓN EN TIEMPO REAL) -->
+  <a href="https://github.com/Luiscarranza130427">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=2800&pause=1100&color=00F2FE&center=true&vCenter=true&width=680&lines=%3C%2F%3E+Full+Stack+Developer;Software+with+Artificial+Intelligence;Founder+of+NovaTec;Construyendo+Sistemas+Web+Modernos+%26+SaaS;Soluciones+que+impulsan+tu+negocio" alt="Typewriter Animation" />
   </a>
-  <a href="#-lo-que-hago">
-    <img src="https://img.shields.io/badge/SOFTWARE_WITH-AI-0B132B?style=for-the-badge&logo=openai&logoColor=38bdf8" alt="Software with AI" />
+
+  <br>
+
+  <!-- BADGES CHIPS CYBERTECH -->
+  <a href="#-sobre-mí">
+    <img src="https://img.shields.io/badge/FULL_STACK-DEVELOPER-070D1E?style=for-the-badge&logo=codeforces&logoColor=00f2fe&labelColor=020617" alt="Full Stack Developer" />
+  </a>
+  <a href="#-especialidad--servicios">
+    <img src="https://img.shields.io/badge/SOFTWARE_WITH-AI-070D1E?style=for-the-badge&logo=openai&logoColor=38bdf8&labelColor=020617" alt="Software with AI" />
   </a>
   <a href="#-novatec">
-    <img src="https://img.shields.io/badge/FOUNDER-NOVATEC-0B132B?style=for-the-badge&logo=rocket&logoColor=00f2fe" alt="Founder of NovaTec" />
+    <img src="https://img.shields.io/badge/FOUNDER-NOVATEC-070D1E?style=for-the-badge&logo=target&logoColor=00f2fe&labelColor=020617" alt="Founder of NovaTec" />
   </a>
   <a href="https://maps.google.com/?q=Cajamarca,+Peru">
-    <img src="https://img.shields.io/badge/CAJAMARCA-PERÚ-0B132B?style=for-the-badge&logo=googlemaps&logoColor=38bdf8" alt="Cajamarca, Perú" />
+    <img src="https://img.shields.io/badge/CAJAMARCA-PERÚ-070D1E?style=for-the-badge&logo=googlemaps&logoColor=38bdf8&labelColor=020617" alt="Cajamarca, Perú" />
   </a>
+
+  <br><br>
+
+  <!-- LÍNEA DIVISORA ANIMADA NEÓN -->
+  <img src="./assets/cyber-divider.svg" alt="Cyber Divider" width="100%" />
 
 </div>
 
 <br>
-
----
 
 ## 👤 Sobre Mí
 
-👋 **Hola, soy Luis Carranza.** Desarrollador **Full Stack** especializado en la intersección de **ingeniería de software e Inteligencia Artificial**, y fundador de **NovaTec**.
+👋 **Hola, soy Luis Carranza.** Desarrollador **Full Stack** especializado en la convergencia de **ingeniería de software de alta gama e Inteligencia Artificial**, y fundador de **NovaTec**.
 
-Diseño y construyo soluciones digitales modernas, robustas y escalables: desde arquitecturas web fluidas y sistemas de gestión avanzados hasta plataformas SaaS multi-tenant y automatizaciones inteligentes aplicadas a procesos de negocio.
+Diseño y construyo soluciones digitales modernas, robustas y escalables: desde arquitecturas web fluidas y sistemas de gestión avanzados hasta plataformas SaaS multi-tenant y automatizaciones inteligentes orientadas a valor de negocio real.
 
-Mi enfoque une **código limpio**, **arquitectura sólida** y una **estética visual de primer nivel**, orientada siempre a generar impacto y valor real.
+Mi filosofía de desarrollo se basa en:
+- **Arquitectura Limpia & Escalabilidad:** Código desacoplado, modular y preparado para crecer.
+- **Experiencia de Usuario Premium:** Interfaces ultra fluidas, estéticas y con alto estándar visual.
+- **Automatización & IA:** Flujos inteligentes que reducen fricción y maximizan la productividad.
 
-> 📍 **Ubicación:** Cajamarca, Perú · *Construyendo hoy un futuro más inteligente.*
+> 📍 **Ubicación:** Cajamarca, Perú · *“Construyendo hoy un futuro más inteligente.”*
 
 <br>
 
----
+<!-- LÍNEA DIVISORA -->
+<img src="./assets/cyber-divider.svg" alt="Cyber Divider" width="100%" />
 
-## 🚀 Lo que hago
+<br>
 
+## 🚀 Especialidad & Servicios
+
+<!-- COMPONENTE VECTORIAL ANIMADO CON EFECTOS CSS GLOW Y TARJETAS DARK GLASS -->
 <div align="center">
-  <img src="./assets/services-section.png" alt="Servicios NovaTec" width="100%" />
+  <img src="./assets/animated-services.svg" alt="Servicios y Especialidades NovaTec" width="100%" />
 </div>
 
 <br>
 
+<!-- DETALLES TÉCNICOS EN ESTRUCTURA HTML LIMPIA -->
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>🌐 Desarrollo Web & Sistemas</h3>
-      <p>Creación de sitios web modernos, sistemas de gestión internos y paneles administrativos eficientes, responsivos y con experiencia de usuario fluida.</p>
+      <h4>🌐 Desarrollo Web &amp; Sistemas</h4>
+      <p>Creación de aplicaciones web con Next.js y React, paneles de control administrativos interactivos, dashboards de datos en tiempo real y arquitecturas Frontend orientadas a rendimiento y SEO.</p>
     </td>
     <td width="50%" valign="top">
-      <h3>⚡ Plataformas SaaS</h3>
-      <p>Diseño y desarrollo de plataformas basadas en suscripción, multi-tenant, con autenticación segura, control de permisos y arquitectura para escalar.</p>
+      <h4>⚡ Plataformas SaaS Escalables</h4>
+      <p>Modelado de sistemas multi-tenant, integración de pasarelas de pago, autenticación robusta (OAuth/JWT), sistemas de membresías y bases de datos relacionales normalizadas.</p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>🔌 APIs & Backend Robusto</h3>
-      <p>Arquitectura de servicios RESTful, integración con bases de datos relacionales y diseño de capas backend optimizadas para alta disponibilidad.</p>
+      <h4>🔌 APIs &amp; Arquitectura Backend</h4>
+      <p>Desarrollo de microservicios y APIs RESTful con Node.js y Laravel. Enfoque prioritario en seguridad, validación de esquemas, rendimiento en queries y mantenibilidad a largo plazo.</p>
     </td>
     <td width="50%" valign="top">
-      <h3>🧠 Software with AI</h3>
-      <p>Automatizaciones avanzadas, integración de modelos de lenguaje (LLMs) y herramientas con inteligencia artificial diseñadas para optimizar operaciones.</p>
+      <h4>🧠 Software with AI</h4>
+      <p>Integración de capacidades cognitivas mediante modelos LLMs, generación aumentada por recuperación (RAG), automatizaciones complejas y agentes para optimización de flujos operativos.</p>
     </td>
   </tr>
 </table>
 
 <br>
 
----
-
-## ⚡ Tech Stack
-
-<div align="center">
-  <img src="./assets/stack-section.png" alt="Tech Stack NovaTec" width="100%" />
-</div>
+<!-- LÍNEA DIVISORA -->
+<img src="./assets/cyber-divider.svg" alt="Cyber Divider" width="100%" />
 
 <br>
+
+## ⚡ Tech Stack
 
 <div align="center">
 
@@ -90,50 +105,105 @@ Mi enfoque une **código limpio**, **arquitectura sólida** y una **estética vi
 
   <br><br>
 
-  <!-- Categorías limpias -->
+  <!-- TABLA HTML ESTILIZADA DE TECNOLOGÍAS -->
   <table>
-    <tr>
-      <td align="right"><b>Frontend</b></td>
-      <td>Next.js · React · Vue.js · TypeScript · Tailwind CSS</td>
-    </tr>
-    <tr>
-      <td align="right"><b>Backend</b></td>
-      <td>Node.js · Laravel · Express · RESTful APIs</td>
-    </tr>
-    <tr>
-      <td align="right"><b>Bases de Datos</b></td>
-      <td>PostgreSQL · MySQL</td>
-    </tr>
-    <tr>
-      <td align="right"><b>Ecosistema & Cloud</b></td>
-      <td>Git · GitHub · Vercel · CI/CD</td>
-    </tr>
+    <thead>
+      <tr>
+        <th align="center">Capa</th>
+        <th align="left">Tecnologías Principales</th>
+        <th align="center">Nivel de Enfoque</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td align="center"><b>Frontend</b></td>
+        <td><code>Next.js</code> · <code>React</code> · <code>Vue.js</code> · <code>TypeScript</code> · <code>Tailwind CSS</code></td>
+        <td align="center">🟢 Producción / Avanzado</td>
+      </tr>
+      <tr>
+        <td align="center"><b>Backend</b></td>
+        <td><code>Node.js</code> · <code>Laravel</code> · <code>Express</code> · <code>REST APIs</code></td>
+        <td align="center">🟢 Producción / Avanzado</td>
+      </tr>
+      <tr>
+        <td align="center"><b>Bases de Datos</b></td>
+        <td><code>PostgreSQL</code> · <code>MySQL</code></td>
+        <td align="center">🟢 Arquitectura & Modelado</td>
+      </tr>
+      <tr>
+        <td align="center"><b>DevOps & Cloud</b></td>
+        <td><code>Git</code> · <code>GitHub</code> · <code>Vercel</code> · <code>CI/CD Pipelines</code></td>
+        <td align="center">🟢 Despliegue Continuo</td>
+      </tr>
+    </tbody>
   </table>
 
 </div>
 
 <br>
 
----
+<!-- LÍNEA DIVISORA -->
+<img src="./assets/cyber-divider.svg" alt="Cyber Divider" width="100%" />
+
+<br>
 
 ## 📂 Proyectos Principales
 
+<!-- TARJETAS VECTORIALES CON PULSO RADAR ACTIVO (CSS KEYFRAMES) -->
 <div align="center">
-  <img src="./assets/projects-section.png" alt="Mis Proyectos" width="100%" />
+  <img src="./assets/animated-projects.svg" alt="Tarjetas Animadas de Proyectos" width="100%" />
 </div>
 
 <br>
 
-| Proyecto | Descripción | Enfoque | Estado |
-| :--- | :--- | :--- | :---: |
-| **🚀 NovaTec** | Ecosistema digital integral y desarrollo de soluciones de software de alto impacto. | `Web` `Cloud` `AI` `Business` | ![Rebuilding](https://img.shields.io/badge/Rebuilding-0284c7?style=flat-square&logo=git&logoColor=white) |
-| **🏋️ Gym Bros** | Plataforma SaaS especializada en gestión de miembros, control y analítica para gimnasios. | `SaaS` `Fitness` `Web` `Mobile` | ![Rebuilding](https://img.shields.io/badge/Rebuilding-0284c7?style=flat-square&logo=git&logoColor=white) |
-| **📦 NovaHub** | Espacio privado y centralizado para herramientas internas de desarrollo y colaboración. | `DevTools` `Team` `Cloud` `Private` | ![Planned](https://img.shields.io/badge/Planned-475569?style=flat-square&logo=clock&logoColor=white) |
-| **🎓 NovaAcademy** | Plataforma educativa de contenidos prácticos y formación en tecnología y desarrollo moderno. | `EdTech` `Cursos` `Comunidad` `Web` | ![Planned](https://img.shields.io/badge/Planned-475569?style=flat-square&logo=clock&logoColor=white) |
+<!-- DESPLEGABLES INTERACTIVOS DE DETALLES TÉCNICOS (HTML INTERACTIVO EN GITHUB) -->
+<details open>
+  <summary><b>🔍 Detalles de los Proyectos y Roadmap</b></summary>
+  <br>
+  <table>
+    <thead>
+      <tr>
+        <th align="left">Proyecto</th>
+        <th align="left">Descripción & Propósito</th>
+        <th align="center">Ecosistema</th>
+        <th align="center">Estado</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><b>🚀 NovaTec</b></td>
+        <td>Ecosistema digital integral de servicios tecnológicos y desarrollo de software moderno.</td>
+        <td><code>Next.js</code> <code>Laravel</code> <code>PostgreSQL</code></td>
+        <td align="center"><img src="https://img.shields.io/badge/Rebuilding-0284c7?style=flat-square&logo=git&logoColor=white" alt="Rebuilding" /></td>
+      </tr>
+      <tr>
+        <td><b>🏋️ Gym Bros</b></td>
+        <td>Plataforma SaaS para la gestión, control de accesos, membresías y analítica de gimnasios.</td>
+        <td><code>React</code> <code>Node.js</code> <code>Tailwind</code></td>
+        <td align="center"><img src="https://img.shields.io/badge/Rebuilding-0284c7?style=flat-square&logo=git&logoColor=white" alt="Rebuilding" /></td>
+      </tr>
+      <tr>
+        <td><b>📦 NovaHub</b></td>
+        <td>Entorno privado de microservicios, automatización y colaboración interna para desarrollo.</td>
+        <td><code>TypeScript</code> <code>Cloud</code> <code>DevTools</code></td>
+        <td align="center"><img src="https://img.shields.io/badge/Planned-475569?style=flat-square&logo=clock&logoColor=white" alt="Planned" /></td>
+      </tr>
+      <tr>
+        <td><b>🎓 NovaAcademy</b></td>
+        <td>Espacio educativo e interactivo orientado a formar desarrolladores con tecnologías modernas.</td>
+        <td><code>EdTech</code> <code>Comunidad</code> <code>Web</code></td>
+        <td align="center"><img src="https://img.shields.io/badge/Planned-475569?style=flat-square&logo=clock&logoColor=white" alt="Planned" /></td>
+      </tr>
+    </tbody>
+  </table>
+</details>
 
 <br>
 
----
+<!-- LÍNEA DIVISORA -->
+<img src="./assets/cyber-divider.svg" alt="Cyber Divider" width="100%" />
+
+<br>
 
 ## 🏢 NovaTec
 
@@ -141,6 +211,7 @@ Mi enfoque une **código limpio**, **arquitectura sólida** y una **estética vi
 
   <br>
 
+  <!-- LOGO OFICIAL NOVATEC CON GLOW NEÓN -->
   <a href="https://github.com/Luiscarranza130427">
     <img src="./assets/logo-novatec.png" alt="NovaTec - Soluciones que impulsan tu negocio" width="380" />
   </a>
@@ -149,7 +220,7 @@ Mi enfoque une **código limpio**, **arquitectura sólida** y una **estética vi
 
   <p align="center">
     <b>NovaTec</b> es mi iniciativa tecnológica orientada a transformar necesidades comerciales en software funcional, moderno y rentable.<br>
-    Desarrollamos soluciones digitales desde cero combinando <b>tecnología de vanguardia</b>, <b>diseño de experiencia</b> y <b>automatización con IA</b>.
+    Desarrollamos soluciones digitales combinando <b>tecnología de vanguardia</b>, <b>diseño de experiencia</b> y <b>automatización con IA</b>.
   </p>
 
   <br>
@@ -160,19 +231,22 @@ Mi enfoque une **código limpio**, **arquitectura sólida** y una **estética vi
 
   <br>
 
-  <!-- Conexión -->
+  <!-- ENLACES DE CONEXIÓN -->
   <a href="https://github.com/Luiscarranza130427">
-    <img src="https://img.shields.io/badge/GitHub-Luiscarranza130427-0B132B?style=for-the-badge&logo=github&logoColor=00f2fe" alt="GitHub Profile" />
+    <img src="https://img.shields.io/badge/GitHub-Luiscarranza130427-0B132B?style=for-the-badge&logo=github&logoColor=00f2fe&labelColor=020617" alt="GitHub Profile" />
   </a>
   <a href="https://github.com/Luiscarranza130427?tab=repositories">
-    <img src="https://img.shields.io/badge/Repositorios-Explorar-0B132B?style=for-the-badge&logo=gitbook&logoColor=38bdf8" alt="Explorar Repositorios" />
+    <img src="https://img.shields.io/badge/Repositorios-Explorar-0B132B?style=for-the-badge&logo=gitbook&logoColor=38bdf8&labelColor=020617" alt="Explorar Repositorios" />
   </a>
 
 </div>
 
 <br>
 
----
+<!-- LÍNEA DIVISORA -->
+<img src="./assets/cyber-divider.svg" alt="Cyber Divider" width="100%" />
+
+<br>
 
 <div align="center">
 
