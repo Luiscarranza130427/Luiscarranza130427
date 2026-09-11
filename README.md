@@ -211,9 +211,12 @@ Mi filosofía de desarrollo se basa en:
 
   <br>
 
-  <!-- LOGO OFICIAL NOVATEC CON GLOW NEÓN -->
+  <!-- LOGO OFICIAL NOVATEC ADAPTATIVO A MODO OSCURO / CLARO -->
   <a href="https://github.com/Luiscarranza130427">
-    <img src="./assets/logo-novatec.png" alt="NovaTec - Soluciones que impulsan tu negocio" width="380" />
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="./assets/logo-novatec.png">
+      <img src="./assets/logo-novatec-original.png" alt="NovaTec - Soluciones que impulsan tu negocio" width="440">
+    </picture>
   </a>
 
   <br><br>
